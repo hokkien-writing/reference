@@ -35,8 +35,8 @@
 
 * 用十分鐘學讀學寫福建文 [官網 📖](https://www.speakhokkien.org/oh-thak-oh-sia)
 * 臺灣閩南語羅馬字拼音教學網 [官網 📖🗣️](https://tailo.moe.edu.tw/)
-* 2009,《臺灣閩南語推薦用字700字表》 [微軟雲盤 PDF ⬇️](/book/臺灣閩南語推薦用字700字表.pdf) 
-* 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [Github](https://github.com/kahaani/gatian)
+* 2009,《臺灣閩南語推薦用字700字表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQUljIyyJtM3liJE?e=wClajs) 
+* 腾达. 潮语拼音教程 [官網 📖](https://kahaani.github.io/gatian/index.html) | [GitHub](https://github.com/kahaani/gatian)
 * 南舍郎. 潮汕话拼音 [Bilibili 📀](https://space.bilibili.com/1209420229/channel/collectiondetail?sid=202531)
 * 潮州白話字 [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E7%99%BD%E8%A9%B1%E5%AD%97)
 * 潮州话拼音方案 [潮州音字典 📖](http://www.czyzd.com/data/chaopin) | [Wikipedia 📖](https://zh.wikipedia.org/wiki/%E6%BD%AE%E5%B7%9E%E8%A9%B1%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88) | [百度百科](https://baike.baidu.com/item/%E6%BD%AE%E5%B7%9E%E8%AF%9D%E6%8B%BC%E9%9F%B3%E6%96%B9%E6%A1%88/2344643)
@@ -74,11 +74,11 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 1933, 潘載和.《潮汕檢音字表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQvwcreMZt08ywls?e=iUUNGv) 
 * 1936, 潭平章.《潮音字類辨正》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQylTdQgVx1NSSht?e=Cng4x5)
 * 1965, Leo Chen, Jerry Norman.《閩語入門》(An introduction to the Foochow dialect)
-	* 中文本 [互聯網檔案館 📖](https://archive.org/details/ERIC_ED010342) | [微軟雲盤 PDF ⬇️](/book/閩語入門.pdf)
+	* 中文本 [互聯網檔案館 📖](https://archive.org/details/ERIC_ED010342) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQasedZB6zAZYpwR?e=UPLGjC)
 * 1992, 李新魁, 林伦伦.《潮汕方言词考释》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQlfQFgyxfZC5Rg-?e=ZN6vqh) 
 * 1993, 周長楫.《廈門方言詞典》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fr_FUA8-jHgX_uQ?e=JvIxGg) 
 * 1995, 羅志海, 鍾顯坤.《海豐話分類辭表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fHtXsXVls07ohj4?e=57pdfr) 
-* 2006, 周长楫.《闽南方言大词典》 [微軟雲盤 PDF ⬇️](/book/闽南方言大词典.pdf) 
+* 2006, 周长楫.《闽南方言大词典》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR-TdfJoquX210-9?e=IrmrsD) 
 * 2010, 周耀文.《潮汕话同音字汇》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQo2EKD2Pk0c2v9F?e=gxYctd) 
 * 2012, 黃晉波.《當代泉州音字彙》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQC7_cjPGq5Wdmg4?e=ajmDky)
 * 2013, 吳昭新.《新編台灣閩南語用字彙編》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQMGTjGVkpz9G2jh?e=abCEf7)
@@ -97,20 +97,20 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 	* 1972, 吳守禮.《金花女·蘇六娘》國立北京大學中國民俗學會民俗叢書第80卷 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4dLhdShrT_VV6ehY?e=uHIsFR)
 	* 曾憲通.《明本潮州戲文〈蘇六娘〉人文背景考察》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4cySXwF7jQM7G700?e=37cD94)
 * 清朝乾嘉時期, 里人何求.《閩都別記》
-	* 1987, 福建人民出版社.《闽都别记》(全三册) [微軟雲盤 PDF ⬇️](/book/闽都别记.pdf)
+	* 1987, 福建人民出版社.《闽都别记》(全三册) [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQEJItcbInAdf3pl?e=lM2Gtw)
 * 1843, [Samuel Dyer(撒母耳·台約爾)](https://en.wikipedia.org/wiki/Samuel_Dyer), [John Stronach(約翰·施敦力)](https://en.wikipedia.org/wiki/John_Stronach).《Aesop's Fables in Hokkien(伊索寓言)》: 第一部分，也就是福建方言部分由撒母耳·台約爾先生和約翰·施敦力先生合作譯成，第二部分，即潮州方言部分則全由約翰·施敦力一人完成。[東洋文庫](https://1drv.ms/b/s!AgqX3Jd3VLa4gRP72e9e3YwZu6bf?e=r6ow6F)
 	* 1885,《Aesop’s Fables in the Amoy vernacular》: 藏於香港大學圖書館。
 	* 1893,《Iong-sim Ju-gian(養心喩言)》: 藏於國立臺灣大學。[台灣白話字文獻館 📖](https://pojbh.lib.ntnu.edu.tw/artical-src11659.htm) | [數位典藏與學習聯合目錄 📖](https://catalog.digitalarchives.tw/item/00/44/f8/d7.html) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRlRP9a21AB7byAg?e=lE6PKg)
 	* 2020, 陳旭《漢訳イソップにおける方言訳に関する研究 : 福建方言訳を中心に》 [国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R000000004-I030391361) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQTpdsDTSHrGrUc5?e=UFUIDj)
-* 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [微軟雲盤 PDF ⬇️](/book/約伯記畧.pdf)
+* 1866, L. B. Peet, R. S. Maclay, S. F. Woodin, S. L. Baldwin.《約伯記畧》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263560203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4eVs_ql7IrpJ3rzk?e=y9cW7U)
 * 1888, John Campbell Gibson([英]汲約翰).《Iak-na tsu Tiejiu peh ue(約拿書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081263180203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRipXOwxSylIYWxB?e=SXGcTc)
 * 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRXsQmgVxULJbEEo?e=FpHaGn)
-* 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [微軟雲盤 PDF ⬇️](/book/省身初學.pdf)
-* 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [微軟雲盤 PDF ⬇️](/book/眞理三字經.pdf)
+* 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4d0LtdADwLdRLqE8?e=zvlenz)
+* 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fSlFGJmU61MH5-0?e=QXneiM)
 * 1894, William Duffus([英]卓威廉).《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR5Dqy1ufZbkUHUN?e=xDfyb0)
 * 1898, S. B. Partridge(帕特里克), W. Ashmore(耶士謨).《新約全書(汕頭土白)》
 	* 2013, 香港觀塘潮語浸信會. 《新約潮語聖經漢字版: (與和合本對照)》
-* 1911, 香港主教師 [准].《要理問答》 [微軟雲盤 PDF ⬇️](/book/要理問答.pdf)
+* 1911, 香港主教師 [准].《要理問答》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4eMHwBxzNXdsVCY8?e=9G9z9i)
 * 1993, 林伦伦.《潮汕方言熟语辞典》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQgiHrm2sDnL8tA1?e=7oyrX1) 
 * 台語諺語 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4cZiGh9Lv4_6-qz8?e=Mlrajw) 
 * 三字經 [Wikibooks 📖](https://zh.wikibooks.org/wiki/%E8%87%BA%E7%81%A3%E8%A9%B1/%E4%B8%89%E5%AD%97%E7%B6%93%E8%AE%80%E9%9F%B3)
@@ -125,7 +125,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * RIME 中州韻輸入法引擎 [官網](https://rime.im/download/)
 	* 閩南語臺羅輸入方案 [官網](https://github.com/a-thok/rime-hokkien)
 	* 潮州話拍字方案 [官網](https://github.com/hokkien-writing/rime-teochew)
-	* 潮语拼音输入法 [官網](https://kahaani.github.io/dieghv) | [Github](https://github.com/kahaani/dieghv)
+	* 潮语拼音输入法 [官網](https://kahaani.github.io/dieghv) | [GitHub](https://github.com/kahaani/dieghv)
 * 真鳥囝福州话输入法 [官網](https://www.zingzeu.org/)
 
 ## 🈚️ 字體
@@ -152,7 +152,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 
 ## 🧐 研究
 
-* 2010, 潘家懿, 鄭守治.《粵東閩南語的分布及方言片的劃分》[微軟雲盤 PDF ⬇️](/book/粵東閩南語的分布及方言片的劃分.pdf) 
+* 2010, 潘家懿, 鄭守治.《粵東閩南語的分布及方言片的劃分》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQJod39hhuZOJMip?e=QPOe7i) 
 
 ## 📝 部落格
 
@@ -175,17 +175,17 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 
 * 閩南語維基百科 [官網](https://zh-min-nan.wikipedia.org/wiki)
 * 閩東語維基百科 [官網](https://cdo.wikipedia.org/wiki)
-* 閩南語書寫 hokkien-writing [官網](https://hokkien-writing.github.io) | [Github](https://github.com/hokkien-writing)
-* 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [Github](https://github.com/zingzeu)
-	* 榕典 [官網](https://www.ydict.net/) | [Github](https://github.com/zingzeu/yngdieng)
-* 閩東語實驗室 MindongLab [Github](https://github.com/MindongLab)
-	* 福州話熟語大全 MindongLab/foochow-idioms [Github](https://github.com/MindongLab/foochow-idioms)
-* 電子化平話字音表 only3km/ciklinbekin [Github](https://github.com/only3km/ciklinbekin)
-* 閩東語福州話的資源整合列表 ztl8702/awesome-hokchew [Github](https://github.com/ztl8702/awesome-hokchew)
-* Learn Teochew [官網](https://learn-teochew.github.io/) | [Github](https://github.com/learn-teochew)
-	* Learn Teochew with Teochew Opera [官網](https://learn-teochew.github.io/tc-opera/) | [Github](https://github.com/learn-teochew/tc-opera)
-	* Teochew songbooks 潮州歌冊 [Github](https://github.com/learn-teochew/tc-songbooks)
-	* Teochew Bibles 潮州話基督教聖經 [Github](https://github.com/learn-teochew/tc-bibles)
+* 閩南語書寫 hokkien-writing [官網](https://hokkien-writing.github.io) | [GitHub](https://github.com/hokkien-writing)
+* 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [GitHub](https://github.com/zingzeu)
+	* 榕典 [官網](https://www.ydict.net/) | [GitHub](https://github.com/zingzeu/yngdieng)
+* 閩東語實驗室 MindongLab [GitHub](https://github.com/MindongLab)
+	* 福州話熟語大全 MindongLab/foochow-idioms [GitHub](https://github.com/MindongLab/foochow-idioms)
+* 電子化平話字音表 only3km/ciklinbekin [GitHub](https://github.com/only3km/ciklinbekin)
+* 閩東語福州話的資源整合列表 ztl8702/awesome-hokchew [GitHub](https://github.com/ztl8702/awesome-hokchew)
+* Learn Teochew [官網](https://learn-teochew.github.io/) | [GitHub](https://github.com/learn-teochew)
+	* Learn Teochew with Teochew Opera [官網](https://learn-teochew.github.io/tc-opera/) | [GitHub](https://github.com/learn-teochew/tc-opera)
+	* Teochew songbooks 潮州歌冊 [GitHub](https://github.com/learn-teochew/tc-songbooks)
+	* Teochew Bibles 潮州話基督教聖經 [GitHub](https://github.com/learn-teochew/tc-bibles)
 
 
 > 備註：頭頂資料攏蒐集自網絡，僅供個人學習參考，其中內容毋代表本站觀點。若有侵權，麻煩着 [Issue頁面](https://github.com/hokkien-writing/reference/issues) 告知。
