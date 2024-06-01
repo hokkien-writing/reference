@@ -130,10 +130,9 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 
 ## 🈚️ 字體
 
->  點擊下底任意鏈接測試汝其電腦支持顯示其漢字範圍：
->
-> 1.  [字體試驗頁-中國哲學書電子化計劃](https://ctext.org/font-test-page/zh)
-> 2.  [漢典](https://www.zdic.net/ts/fulu/2019/05/12.html)
+> 📌 點擊下底任意鏈接測試汝其電腦支持顯示其漢字範圍：
+> 1. [字體試驗頁-中國哲學書電子化計劃](https://ctext.org/font-test-page/zh)
+> 2. [漢典](https://www.zdic.net/ts/fulu/2019/05/12.html)
 > 3. [如何在计算机中显示所有汉字](https://keqingrong.cn/blog/2019-10-01-how-to-display-all-chinese-characters-on-the-computer/)
 
 * 花園明朝, 宋體, 11萬余漢字, [字形維基](http://zht.glyphwiki.org/wiki/GlyphWiki:首頁), 開源免費 [官方 ⬇️](https://glyphwiki.org/hanazono/hanazono-20170904.zip) | [微軟雲盤⬇️](https://1drv.ms/f/s!AgqX3Jd3VLa4gSAG3YRatPI65c8L?e=TEtm5Z)
