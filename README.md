@@ -1,5 +1,7 @@
 # 閩語參考資料
 
+> 📌 下底 PDF 等資料已攏總放入[微軟雲盤](https://1drv.ms/f/s!AgqX3Jd3VLa4bWO4AbwiSrX1_O0?e=5hXHR2) | [阿里雲盤](https://www.alipan.com/s/Wp8vC9RFfv2)，作爲備用。
+
 ## 🔍 查詞
 
 * Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
