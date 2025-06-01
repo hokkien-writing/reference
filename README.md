@@ -7,15 +7,15 @@
 * Ūn-luī 韻彙 [官網 🔍](https://unlui.enatsu.top/)
 * ChhoeTaigi 找台語 [官網 🔍](https://chhoe.taigi.info/)
 * 臺語萌典 [官網 🔍🗣️](https://www.moedict.tw/'%E7%99%BC%E7%A9%8E)
-* 臺灣閩南語常用詞辭典 [官網 📖🗣️](https://sutian.moe.edu.tw/zh-hant/) | [本站 📖](https://hokkien-writing.github.io/holodict) 
+* 教育部臺灣台語常用詞辭典 [官網 📖🗣️](https://sutian.moe.edu.tw/zh-hant/) | [本站(舊版) 📖](https://hokkien-writing.github.io/holodict) | [辭典資料下載 ⬇️](https://sutian.moe.edu.tw/und-hani/siongkuantsuguan/#hid0) | [臺灣閩南語按呢寫 ⬇️](https://sutian.moe.edu.tw/media/annesia.zip)
+* 名姓唸法查詢-教育部臺灣台語常用詞辭典 [官網 🔍🗣️](https://sutian.moe.edu.tw/und-hani/huliok/miasenn/)
 * 甘字典查詢 [官網 🔍](http://taigi.fhl.net/dick/index.html)
 * 廈英大辭典 [官網 🔍](https://minhakka.ling.sinica.edu.tw/bkg/chong-su-tian.php)
 * 台語辭典(台日大辭典台語譯本) [官網 🔍🗣️](http://minhakka.ling.sinica.edu.tw/taijittian/) 
 * 小學堂閩語 [官網 🔍🗣️](https://xiaoxue.iis.sinica.edu.tw/minyu) 
 * iTaigi 愛台語 [官網 🔍🗣️](https://itaigi.tw/k/%E5%8F%B0%E8%AA%9E/)
 * 潮州母语 [官網 🔍🗣️](https://www.mogher.com/) 
-* 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/) 
-* 講我的名 - 閩南語姓名查詢網站(試用版) [官網 🔍🗣️](https://miasenn.moe.edu.tw/) 
+* 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/)  
 * 榕典 [官網 🔍🗣️](https://www.ydict.net)
 
 ---
