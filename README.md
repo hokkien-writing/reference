@@ -82,6 +82,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 1992, 李新魁, 林伦伦.《潮汕方言词考释》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQlfQFgyxfZC5Rg-?e=ZN6vqh) 
 * 1993, 周長楫.《廈門方言詞典》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fr_FUA8-jHgX_uQ?e=JvIxGg) 
 * 1995, 羅志海, 鍾顯坤.《海豐話分類辭表》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fHtXsXVls07ohj4?e=57pdfr) 
+* 2000, 吳守禮.《國臺對照活用辭典》[官網 📖](https://koktai.github.io/#/dict) | [維基文庫 📖](https://zh.wikisource.org/zh-hant/%E5%9C%8B%E8%87%BA%E5%B0%8D%E7%85%A7%E6%B4%BB%E7%94%A8%E8%BE%AD%E5%85%B8) | [微軟雲盤 紙本掃描檔 合併標清 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EctTsnj0CJJMu7GgTrlt1LABDj7WkOXGxlLK_T9Ofx9l2Q?e=vLJahl) ｜ [Github 紙本掃描檔 分節高清 ⬇️](https://github.com/Wikimedia-TW/koktai-rawscan/tree/master/raw_scan)
 * 2006, 周长楫.《闽南方言大词典》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR-TdfJoquX210-9?e=IrmrsD) 
 * 2010, 周耀文.《潮汕话同音字汇》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQo2EKD2Pk0c2v9F?e=gxYctd) 
 * 2012, 黃晉波.《當代泉州音字彙》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQC7_cjPGq5Wdmg4?e=ajmDky)
