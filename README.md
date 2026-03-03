@@ -17,6 +17,8 @@
 * 潮州母语 [官網 🔍🗣️](https://www.mogher.com/) 
 * 潮州音字典 [官網 🔍🗣️](http://www.czyzd.com/)  
 * 榕典 [官網 🔍🗣️](https://www.ydict.net)
+* 芋圓字典 Taro Dictionary [官網 🔍🗣️](https://portaly.cc/taro.dict)
+* 台字田-在來字查詢 [官網 🔍](https://ji.taioan.org/)
 
 ---
 
@@ -32,6 +34,7 @@
 * 國際電腦漢字及異體字知識庫 [官網 🔍](https://chardb.iis.sinica.edu.tw/)
 * 古今文字集成 [官網 🔍](http://ccamc.co/index.php)
 * 全字庫 [官網 🔍](https://www.cns11643.gov.tw/index.jsp)
+* 臺灣羅馬字轉換器 [官網](https://lomaji.ithuan.tw/)
 
 ## 🧑‍🏫 教程
 
@@ -179,6 +182,7 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 	* 潮語課堂 [官網](https://www.tc-culture.hk/lang/index.html)
 	* 潮州文藝 [官網](https://www.tc-culture.hk/art/index.html)
 	* 作田人瑣事 [官網](https://www.tc-culture.hk/farmer/index.html)
+* 食飽未Chia̍h pá ·bē! - 嘴講台灣話、手phah台語文。歡迎參加世界第一全台文ê社交媒體！[官網](https://chiahpa.be/)
 
 ## 🐈 開源項目
 
