@@ -66,14 +66,17 @@
 * 1600-1650, Nieva, Domingo.《生理人話辭彙按 ABC 字母編排》(Bocabulario de lengua sangleya por las letras de el A. B. C.): 藏於大英圖書館。
 * 1832, Medhurst, Walter Henry.《福建方言字典》(A dictionary of the Hok-këèn dialect of the Chinese language) [互聯網檔案館 📖](https://archive.org/details/dictionaryofhokk00medhrich) | [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990130728340203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRBWLO7C6R3KNN5k?e=qXXKdI)
 * 1841, William Dean([美]璘为仁, 憐為仁).《潮州話初級教程》(First Lessons in the Tie-chiw Dialect) [Wikisource 📖](https://en.wikisource.org/wiki/First_Lessons_in_the_Tie-chiw_Dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRwhb7g2H9J2-lLl?e=D6djc6)
-* 1873, Carstairs Douglas(杜嘉德).《廈英大辭典》(Chinese-English Dictionary of Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects)
-	* 1923, Thomas Barclay(巴克禮).《增補廈音大辭典》(Supplement to Dictionary of the Vernacular or
+* 1852, Rev. John Van Nest Talmage([美]打馬字)《唐話番字初學》(Tn̂g-ōe Hoan-jī Chho͘-ha̍k)（Introduction to Amoy Alphabets）[Wikisource 📖](https://zh-min-nan.wikisource.org/wiki/Tn%CC%82g_%C5%8Ce_Hoan_J%C4%AB_Chho%CD%98_Ha%CC%8Dk) | [Bodleian Library PDF ⬇️](https://digital.bodleian.ox.ac.uk/objects/e8e3a236-280f-410d-a419-ef57b675f764/)｜[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQDHYb9pcQeFS4X8Doxc2uLnAeEo0lTz2_uCY6zdyEb-B38?e=JSu90D)
+* 1873, Carstairs Douglas([英]杜嘉德).《廈英大辭典》(Chinese-English Dictionary of Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects)
+	* 1923, Thomas Barclay([英]巴克禮).《增補廈音大辭典》(Supplement to Dictionary of the Vernacular or
 	Spoken Amoy.) [互聯網檔案館 📖](https://archive.org/details/chineseenglish00doug) | [Google Books 📖](https://www.google.com/books/edition/Chinese_English_Dictionary_of_the_Vernac/KoNkAAAAMAAJ) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRQ1ej4xGr2Vt1td?e=0jIJ1K)
+* 1883, John Macgowan([英]麥高溫).《廈門方言英漢字典》（English and Chinese dictionary of the Amoy dialect）[互聯網檔案館 📖](https://archive.org/details/cu31924023550878) | [Wikisource 📖](https://en.wikisource.org/wiki/Index:English_and_Chinese_dictionary_of_the_Amoy_dialect_(IA_cu31924023550878).pdf) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQD6xroZwahbRrAVKDC3lU8KAV5t82jT3ZWyh9gRpaLFUqU?e=mCajyn) | [博客來](https://www.books.com.tw/products/F019712435?loc=series_P_E251021000018568_title_001)
 * 1883, Rudolf Lechler([德]黎力基), Samuel Wells Williams([美]衛三畏), William Duffus([英]卓威廉).《英漢汕頭方言口語詞典》(English-Chinese Vocabulary of the Vernacular Or Spoken Language of Swatow) [本站 📖](https://hokkien-writing.github.io/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [Wikisource 📖](https://en.wikisource.org/wiki/English-Chinese_Vocabulary_of_the_Vernacular_Or_Spoken_Language_of_Swatow) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRKgQNSnrQlJUIp3?e=q5Coer)
 * 1883, Josiah Goddard([美]高德, 哥達德).《漢英潮州方言字典》(A Chinese and English vocabulary, in the Tie-chiu dialect) [本站 📖](https://hokkien-writing.github.io/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/A_Chinese_and_English_vocabulary,_in_the_Tie-chiu_dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ05sJSwYnZtsMpm?e=AyVkZf)
 * 1883, Adele Marion Fielde([美]A.M.菲爾德, 斐姑娘).《汕頭方言音義字典》(A pronouncing and defining dictionary of the Swatow dialect, arranged according to syllables and tones) [本站 📖](https://hokkien-writing.github.io/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect) | [Wikisource 📖](https://en.wikisource.org/wiki/Dictionary_of_the_Swatow_dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRebDy57RcB0bIxX?e=LjpMh7)
 * 1886, Lim Hiong Seng([新加坡]林雄成).《汕頭話讀本》(Handbook of the Swatow Vernacular) [本站 📖](https://hokkien-writing.github.io/Handbook_of_the_Swatow_Vernacular) | [Wikisource 📖](https://en.wikisource.org/wiki/Handbook_of_the_Swatow_Vernacular) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRa-0BHj0H7BuBFc?e=OddimT)
 * 1871, Baldwin, C. C. (Caleb Cook).《榕腔初學撮要》(A Manual of the Foochow Dialect) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990058288570203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ_D0a_uFQEq3OPU?e=a8y2xa)
+* 1894, Rev. John Van Nest Talmage([美]打馬字, Táⁿ Má-jī),《廈門音个字典》(Ē-mn̂g im ê Jī-tián) [微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQBVvSt2bBiRTL3VP5k8ye6uAXr_5nyPtSL550lbCayYKvg?e=jiHdJc)
 * 1908, C. M. S. and A. E. Champness.《福州話入門二十課》(A Manual of the Foochow Dialect In Twenty Lessons) [Wikisource 📖](https://en.wikisource.org/wiki/A_Manual_of_the_Foochow_Dialect_In_Twenty_Lessons) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQ49QHmkczi1PnKF?e=ytVsCg)
 * 1913, William Campbell(甘爲霖).《廈門音新字典》(A Dictionary of the Amoy Vernacular Spoken
 through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案館 📖](https://archive.org/details/dictionaryofamoy00camp) | [甘字典查詢 🔍](http://taigi.fhl.net/dick/index.html) | [Google Books 📖](https://play.google.com/books/reader?id=dJo3AQAAMAAJ&pg=GBS.PP1&hl=en) [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRG-_gcsYus3NbLl?e=2gmf2I)
@@ -115,7 +118,8 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 1890, Cheah Toon Hoon(謝敦倫).《Excellent Ancient Adages, Together with Notes on the Writings of Chinese Romanized in the Hokkien Dialect(昔時賢文)》 [Wikisource 📖](https://en.wikisource.org/wiki/Excellent_Ancient_Adages,_Together_with_Notes_on_the_Writings_of_Chinese_Romanized_in_the_Hokkien_Dialect) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gRXsQmgVxULJbEEo?e=FpHaGn)
 * 1891, 惠亨通.《省身初學》(福州話) [哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081664440203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4d0LtdADwLdRLqE8?e=zvlenz)
 * 1893, Charles Hartwell.《眞理三字經》 [Wikisource 📖](https://wikisource.org/wiki/%E7%9C%9F%E7%90%86%E4%B8%89%E5%AD%97%E7%B6%93) | [信望愛 📖](https://bible.fhl.net/ob/nob.html?book=38) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4fSlFGJmU61MH5-0?e=QXneiM)
-* 1894, William Duffus([英]卓威廉).《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書-潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR5Dqy1ufZbkUHUN?e=xDfyb0)
+* 1894, William Duffus([英]卓威廉).《Ma-thai hok im tsu Tie-chiu peh ue(馬太福音書——潮州白話)》[哈佛圖書館 📖](https://curiosity.lib.harvard.edu/chinese-rare-books/catalog/49-990081283710203941) | [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gR5Dqy1ufZbkUHUN?e=xDfyb0)
+* 1894, 汕頭禮拜堂，HÔNG-SOH-HṲN 印《Sài-thû Páu-lô só-kìa kâi tsṳ-sìn Hui-lìp-pí chì Hui-lī-mn̂g poih-phien(使徒保羅所寄个書信——腓立比至腓利門八篇)》[珍本聖經數位典藏查詢系統-信望愛 📖](https://bible.fhl.net/ob/nob.html?book=126)｜[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQAt53qAmHluSJRJL1rZFaBmAa9MJx0vkpM9TLkbx58-ACM?e=jXFuOh)
 * 1898, S. B. Partridge(帕特里克), W. Ashmore(耶士謨).《新約全書(汕頭土白)》
 	* 2013, 香港觀塘潮語浸信會. 《新約潮語聖經漢字版: (與和合本對照)》
 * 1911, 香港主教師 [准].《要理問答》 [微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4eMHwBxzNXdsVCY8?e=9G9z9i)
@@ -134,8 +138,9 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 * 臺灣閩南語漢字輸入法 [官網](https://language.moe.gov.tw/files/people_files/blgsujip%201110721.pdf)
 * Phah Tâi-gí 臺語輸入法 [Android ⬇️](https://play.google.com/store/apps/details?id=com.taccotap.phahtaigi) | [IOS ⬇️](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)
 * RIME 中州韻輸入法引擎 [官網](https://rime.im/download/)
-	* 閩南語臺羅輸入方案 [官網](https://github.com/a-thok/rime-hokkien)
+	* 福建話拍字方案項目 [官網](https://github.com/hokkien-writing/rime-hokkien)
 	* 潮州話拍字方案 [官網](https://github.com/hokkien-writing/rime-teochew)
+	* 閩南語臺羅輸入方案 [官網](https://github.com/a-thok/rime-hokkien)
 	* 潮语拼音输入法 [官網](https://kahaani.github.io/dieghv) | [GitHub](https://github.com/kahaani/dieghv)
 * 真鳥囝福州话输入法 [官網](https://www.zingzeu.org/)
 
@@ -163,7 +168,9 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 ## 🧐 研究
 
 * 2010, 潘家懿, 鄭守治.《粵東閩南語的分布及方言片的劃分》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/s!AgqX3Jd3VLa4gQJod39hhuZOJMip?e=QPOe7i) 
-* 2010, 洪惟仁.《閩南語書寫法的理想與現實》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EcOgRBCAWMJJtnMW3STNwzkBOn2Ai1aPzF4V-AaRhrbLnw?e=VicPXi) 
+* 2010, 洪惟仁.《閩南語書寫法的理想與現實》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/EcOgRBCAWMJJtnMW3STNwzkBOn2Ai1aPzF4V-AaRhrbLnw?e=VicPXi)
+* 2010, 徐馥瓊.《粵東閩語語音研究》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQDhfM1JuLBkTp4DKVM3DuhnAWxwwMZsx2sdMF01p_6fczE?e=gZhj59)
+* 2013, 徐宇航.《十九世紀的潮州方言音系》[微軟雲盤 PDF ⬇️](https://1drv.ms/b/c/b8b6547797dc970a/IQArK1BrR8lQRp-lUxAEWonpAZ5N2_GED3pYOSFRCa7pZcM?e=Ewh0Sf)
 
 ## 📝 部落格
 
@@ -187,18 +194,24 @@ through the Prefectures of Chin-Chiu, Chiang-Chiu and Formosa) [互聯網檔案�
 ## 🐈 開源項目
 
 * 閩南語維基百科 [官網](https://zh-min-nan.wikipedia.org/wiki)
-* 閩東語維基百科 [官網](https://cdo.wikipedia.org/wiki)
 * 閩南語書寫 hokkien-writing [官網](https://hokkien-writing.github.io) | [GitHub](https://github.com/hokkien-writing)
-* 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [GitHub](https://github.com/zingzeu)
-	* 榕典 [官網](https://www.ydict.net/) | [GitHub](https://github.com/zingzeu/yngdieng)
-* 閩東語實驗室 MindongLab [GitHub](https://github.com/MindongLab)
-	* 福州話熟語大全 MindongLab/foochow-idioms [GitHub](https://github.com/MindongLab/foochow-idioms)
-* 電子化平話字音表 only3km/ciklinbekin [GitHub](https://github.com/only3km/ciklinbekin)
-* 閩東語福州話的資源整合列表 ztl8702/awesome-hokchew [GitHub](https://github.com/ztl8702/awesome-hokchew)
+	* dataset 數據集項目 [Github](https://github.com/hokkien-writing/dataset)
+	* rime-hokkien 福建話拍字方案項目 [Github](https://github.com/hokkien-writing/rime-hokkien)
+	* rime-teochew 潮州話拍字方案項目 [Github](https://github.com/hokkien-writing/rime-teochew)
 * Learn Teochew [官網](https://learn-teochew.github.io/) | [GitHub](https://github.com/learn-teochew)
 	* Learn Teochew with Teochew Opera [官網](https://learn-teochew.github.io/tc-opera/) | [GitHub](https://github.com/learn-teochew/tc-opera)
 	* Teochew songbooks 潮州歌冊 [GitHub](https://github.com/learn-teochew/tc-songbooks)
 	* Teochew Bibles 潮州話基督教聖經 [GitHub](https://github.com/learn-teochew/tc-bibles)
+
+---
+
+* 閩東語維基百科 [官網](https://cdo.wikipedia.org/wiki)
+* 真鸟囝 zingzeu [官網](http://www.zingzeu.com) | [GitHub](https://github.com/zingzeu)
+	* 米时典 [官網](https://seedict.com/) | [GitHub](https://github.com/zingzeu/yngdieng)
+* 閩東語實驗室 MindongLab [GitHub](https://github.com/MindongLab)
+	* 福州話熟語大全 MindongLab/foochow-idioms [GitHub](https://github.com/MindongLab/foochow-idioms)
+* 電子化平話字音表 only3km/ciklinbekin [GitHub](https://github.com/only3km/ciklinbekin)
+* 閩東語福州話的資源整合列表 ztl8702/awesome-hokchew [GitHub](https://github.com/ztl8702/awesome-hokchew)
 
 
 > 備註：頭頂資料攏蒐集自網絡，僅供個人學習參考，其中內容毋代表本站觀點。若有侵權，麻煩着 [Issue頁面](https://github.com/hokkien-writing/reference/issues) 告知。
